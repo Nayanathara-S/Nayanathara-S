@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**Nayanathara-S/Nayanathara-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>About Me</p>
+<p>I&apos;m Sanduni Nayanathara,
+    <meta charset="utf-8">A Computer Networks graduate passionate about:
+</p>
+<ul>
+    <li>Computer Network</li>
+    <li>Multimedia over IP</li>
+    <li>Advanced Computer Networking Infrastructure</li>
+    <li>Ethical Hacking</li>
+</ul>
+<p>Skills &amp; Tools</p>
+<p>Languages: Python, C, C#, Javascript</p>
+<p>Tools: Cisco Packet Tracer, Wireshark</p>*
